@@ -11,5 +11,5 @@ Tools used : Python, Jupyter notebook, libraries: pandas, numpy,sci-kit learn, i
 
 Deployment using flask, demo: https://www.youtube.com/watch?v=4KlVL-yA_Js&t=4s
 
-Blog on this case study: 
+Blog on this case study: https://praveen-hegde.medium.com/e-commerce-customer-satisfaction-prediction-abc9bd31d70f
 
